@@ -3,7 +3,7 @@ Dakota sensitivity analysis for COAWST
 Instructions for dakota installation are here: 
  
 * ana_grid.h, ocean_sedbed_toy.in, wind_restrat_2events.nc,sedbedtoy.h - original sedbedtoy files for COAWST runs
-* util.py - 
+* util.py - output script to get the model output for sensitivity purposes 
 
 * dprepro - executable file for dakota 
 * dakota_sebded.in - sediment input file that will be copied to form multiple input files
