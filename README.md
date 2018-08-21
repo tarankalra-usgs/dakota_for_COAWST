@@ -4,6 +4,8 @@ Instructions for dakota installation are here:
 
 * https://github.com/tarankalra-usgs/self_notes/blob/master/installing%20dakota%20on%20Linux
 
+Files in this repository: 
+
 * ana_grid.h, ocean_sedbed_toy.in, wind_restrat_2events.nc,sedbedtoy.h - original sedbedtoy files for COAWST runs
 * util.py - output script to get the model output for sensitivity purposes 
 
